@@ -1,9 +1,9 @@
-# <h1> Stop
-# <h2> Stop IT
-# <h3> Sto-o-op. You're SCARING me
-# <h4> YOU'RE SCARING ME. *bump* I said NO
-# <h5> *bite* Stop being RATCHET
-# <h6> *bite again* Get off me. We're done. We are over. Go
+# Stop
+## Stop IT
+### Sto-o-op. You're SCARING me
+#### YOU'RE SCARING ME. *bump* I said NO
+##### *bite* Stop being RATCHET
+###### *bite again* Get off me. We're done. We are over. Go
 
 ![Ratchet-looking orange cat with evil smirk](https://i.redd.it/180p6uglhkb71.jpg)
 
