@@ -5,3 +5,4 @@
 # <h5> *bite* Stop being RATCHET
 # <h6> *bite again* Get off me. We're done. We are over. Go
 
+![Ratchet-looking orange cat with evil smirk](https://i.redd.it/180p6uglhkb71.jpg)
